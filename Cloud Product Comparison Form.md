@@ -11,7 +11,7 @@
 ## 2.Alibaba Cloud
 
 - Instance or VMs
-- - (Elastic Compute Service)ECS
+  - (Elastic Compute Service)ECS
 
 ## 3.Amazon Web Service (AWS)
 
