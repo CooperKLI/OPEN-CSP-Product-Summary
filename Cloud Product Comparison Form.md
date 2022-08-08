@@ -18,7 +18,7 @@
   - (Object Storage Service) OSS
 
 ## 3.Amazon Web Service (AWS)
-- (Elastic Compute Cloud)EC2
+- (Elastic Compute Cloud) EC2
 
 ## 4.Microsoft Azure
 
