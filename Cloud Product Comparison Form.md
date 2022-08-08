@@ -4,7 +4,9 @@
 
 | Class | Alibaba | AWS | Azure | GCP |
 | ----- | ----- | ----- | ----- | ----- |
-| Instance or VMs | ECS | EC2 | Virtual Machines | Compute Engine |
+| Instance or VMs | ECS | EC2 | Virtual Machines | G Compute Engine |
+| Container Service | ECI | ECS | AKS | GKE |
+
 
 ## 2.Alibaba Cloud 
 
