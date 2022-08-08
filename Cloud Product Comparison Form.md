@@ -4,16 +4,18 @@
 
 | Class | Alibaba | AWS | Azure | GCP |
 | ----- | ----- | ----- | ----- | ----- |
-| Instance or VMs | ECS | EC2 | Virtual Machines | G Compute Engine |
-| Container Service | ECI | ECS | AKS | GKE |
+| Instance or VMs | (Elastic Compute Service)ECS | (Elastic Compute Cloud)EC2 | Virtual Machines | (Google Compute Engine)GCE |
+| Container Service | (Elastic Container Instance)ECI | (Elastic Container Service)ECS | (Azure Kubernetes Service)AKS | (Google Kubernetes Engine)GKE |
 
 
 ## 2.Alibaba Cloud
 
 - Instance or VMs
   - (Elastic Compute Service)ECS
+- Contain
 
 ## 3.Amazon Web Service (AWS)
+- (Elastic Compute Cloud)EC2
 
 ## 4.Microsoft Azure
 
