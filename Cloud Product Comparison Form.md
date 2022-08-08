@@ -9,21 +9,27 @@
 
 
 ## 2.Alibaba Cloud
-### 1. Computing
+### 2.1 Computing
 - Instance or VMs
   - (Elastic Compute Service) ECS
 - Container Service
+  - (Alibaba Container Service for Kubernetes) ACK
   - (Elastic Container Instance) ECI
 
-### 2. Storage
+### 2.2 Storage
 - Object Storage
   - (Object Storage Service) OSS
+- File Storage
+  - (Elastic Block Storage) EBS
+  - (File Storage NAS) NAS
 
-### 3. Network
+### 2.3 Network
 
-### 4. Security
+### 2.4 Security
 
-### 5. Data
+### 2.5 Data
+
+### 2.6 Other
 
 ## 3.Amazon Web Service (AWS)
 - (Elastic Compute Cloud) EC2
