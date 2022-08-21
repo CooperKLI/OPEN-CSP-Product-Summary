@@ -17,6 +17,8 @@
   - (Elastic Container Instance) ECI
 
 ### 2.2 Storage
+- Snapshot
+  - $0.0200 USD/GB/Month
 - Object Storage
   - (Object Storage Service) OSS
 - File Storage
