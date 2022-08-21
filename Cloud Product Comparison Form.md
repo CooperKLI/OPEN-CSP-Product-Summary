@@ -18,9 +18,11 @@
 
 ### 2.2 Storage
 - Snapshot
-  - $0.0200 USD/GB/Month
+  - Standard Snapshot
+  - $ 0.0200 USD/GB/Month
 - Object Storage
   - (Object Storage Service) OSS
+  - $ 0.0700 USD/GB
 - File Storage
   - (Elastic Block Storage) EBS
   - (File Storage NAS) NAS
