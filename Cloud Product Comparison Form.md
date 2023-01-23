@@ -4,14 +4,15 @@
 
 | Class | Alibaba | AWS | Azure | GCP |
 | ----- | ----- | ----- | ----- | ----- |
-| Instance or VMs | (Elastic Compute Service)ECS | (Elastic Compute Cloud)EC2 | Virtual Machines | (Google Compute Engine)GCE |
-| Container Service | (Elastic Container Instance)ECI | (Elastic Container Service)ECS | (Azure Kubernetes Service)AKS | (Google Kubernetes Engine)GKE |
+| Instance or VMs | ECS (Elastic Compute Service) | EC2 (Elastic Compute Cloud) | Virtual Machines | GCE (Google Compute Engine) |
+| Container Service | ECI (Elastic Container Instance) | ECS (Elastic Container Service)ECS | AKS (Azure Kubernetes Service)AKS | GKE (Google Kubernetes Engine)GKE |
+| Object Storage | OSS (Object Storage Service) | Amazon S3 | Blob Storage | Google Cloud Storage |
 
-
+(Pricing is refer to Frankfurt region, other region may vary)
 ## 2.Alibaba Cloud
 ### 2.1 Computing
 - Instance or VMs
-  - (Elastic Compute Service) ECS
+  - (Elastic Compute Service) ECS (Subscription/PAYG)
 - Container Service
   - (Alibaba Container Service for Kubernetes) ACK
   - (Elastic Container Instance) ECI
@@ -28,12 +29,35 @@
   - (File Storage NAS) NAS
 
 ### 2.3 Network
+- EIP (Elastic IP Service)
+  - $ 0.0700 USD/Hour
+  - $ 52.56 USD/Year
+- Bandwidth
+- Traffic
+- NAT Gateway
+- Express Connect
 
-### 2.4 Security
+### 2.4 Database
+- RDS
+  - MySQL
+  - SQL Server
+  - PostgreSQL
+  - MariaDB
 
-### 2.5 Data
+### 2.5 Security
+- Security Centre
+  - Depends on actual usage
+- WAF
+  - Depends on actual usage
+- Bastion Host
+  - Depends on actual usage
 
-### 2.6 Other
+### 2.6 Data Service
+- CSG (Cloud Storage Gateway)
+- DTS (Data Transformation Service)
+
+### 2.7 Hybrid
+- SMC (Server Migration Center)
 
 ## 3.Amazon Web Service (AWS)
 - (Elastic Compute Cloud) EC2
